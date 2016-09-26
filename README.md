@@ -4,11 +4,11 @@ A hypothetical insurance company wants to score the survival of prostate cancer 
 
 # Solution Approach Outline
 
-1. Get to know the data
+1) Get to know the data
 * a. Understand the data from a practical/human point of view
 * b. Brainstorm how variables may be related at an intuitive level
 * c. Get a sense of what data may be most useful
-2. Analyze the data
+2) Analyze the data
   a. Try to verify accuracy and reliability of data
   b. Explore the distributions of individual variables
   c. Experiment with data to uncover relationships between seemingly independent variables
