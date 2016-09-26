@@ -26,4 +26,4 @@ Solution Approach Outline
 
 4) Conceptualize solution approach
 
-5) Build solutions, test, rebuild, test, rebuild
+5) Build models, test, evaluate, rebuild
