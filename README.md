@@ -1,12 +1,12 @@
 # Predicting Prostate Cancer Survival Rate
 
 Motivation
-==========
+----------
 
 A hypothetical insurance company wants to score the survival of prostate cancer patients to determine their eligibility for post-diagnosis life insurance. Given a 31-D data set of randomly generated variables, I perform exploratory data analysis and build a predictive classifier that can help an insurance company reduce their risk.
 
 Solution Approach Outline
-=========================
+-------------------------
 
 1) Get to know the data
 * Understand the data from a practical/human point of view
